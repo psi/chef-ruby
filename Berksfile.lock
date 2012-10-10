@@ -1,0 +1,2 @@
+cookbook 'ruby', :path => '/Users/jd/src/cookbooks/ruby'
+cookbook 'ruby_build', :locked_version => '0.6.2'
